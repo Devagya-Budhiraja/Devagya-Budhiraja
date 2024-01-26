@@ -25,7 +25,7 @@ Feel free to reach out to me through email: [devagya2015@gmail.com](mailto:devag
 
 ## 🤝 Let's Collaborate
 
-Excited about any projects related to Mechatronics, Robotics, or AI? I'm open to collaboration! Let's build something amazing together. 🚀
+Excited about any projects related to Mechatronics, Robotics, or AI? I'm open to collaboration! Let's build something amazing together🚀
 
 <!---
 Devagya-Budhiraja/Devagya-Budhiraja is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
