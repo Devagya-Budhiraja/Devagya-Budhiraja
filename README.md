@@ -1,6 +1,6 @@
 # 👋 Hey there! I'm Devagya Budhiraja
 
-Welcome to my GitHub profile! 🚀 I'm a 3rd-year Mechatronics engineering student at the University of Sydney. 👨‍🎓 My pronouns are he/him.
+Welcome to my GitHub profile! 🚀 I'm a final year Mechatronics engineering student at the University of Sydney. 👨‍🎓 My pronouns are he/him.
 
 ## 👨‍💻 About Me
 
