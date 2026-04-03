@@ -17,7 +17,7 @@ Welcome to my GitHub profile! 🚀 I'm a final year Mechatronics engineering stu
 ## 📚 Learning Journey
 
 - 💡 Always eager to explore and learn new technologies.
-- 📖 Currently honing my skills in C, C++, Python, SQl, Matlab, Arduino, STM32, Solidworks, and many more!!
+- 📖 Currently honing my skills in C/C++, Verilog, Python, SQl, Matlab, Arduino, STM32, Fusion360, and many more!!
 
 ## 📫 Let's Connect!
 
